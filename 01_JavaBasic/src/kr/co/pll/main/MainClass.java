@@ -15,6 +15,7 @@ public class MainClass {
 		HelloWorldKo hello3=new HelloWorldKo();
 		callMethod(hello3);
 		
+		System.out.println("깃허브 커밋테스트");
 		
 		
 	}
